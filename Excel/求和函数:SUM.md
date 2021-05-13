@@ -10,4 +10,4 @@
 
 实操图片：
 
-![求和1](/Excel/images/SUM-1.gif)
+![求和1](Excel/images/SUM-1.gif)
