@@ -23,3 +23,5 @@ Excel函数使用方法
 - [x] [条件计数](https://github.com/xiaowen-king/office-function/blob/main/Excel/%E6%9D%A1%E4%BB%B6%E8%AE%A1%E6%95%B0.md)
 
 - [x] [多条件计数](https://github.com/xiaowen-king/office-function/blob/main/Excel/%E5%A4%9A%E6%9D%A1%E4%BB%B6%E8%AE%A1%E6%95%B0.md)
+
+- [x] [条件查找](https://github.com/xiaowen-king/office-function/blob/main/Excel/%E6%9D%A1%E4%BB%B6%E6%9F%A5%E6%89%BE.md)
