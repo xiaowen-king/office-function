@@ -13,3 +13,5 @@ Excel函数使用方法
 - [x] [求商](https://github.com/xiaowen-king/office-function/blob/main/Excel/%E6%B1%82%E5%95%86.md)
 
 - [x] [if判断语句](https://github.com/xiaowen-king/office-function/blob/main/Excel/if%E5%88%A4%E6%96%AD%E8%AF%AD%E5%8F%A5.md)
+
+- [x] [多条件判断](https://github.com/xiaowen-king/office-function/blob/main/Excel/%E5%A4%9A%E6%9D%A1%E4%BB%B6%E5%88%A4%E6%96%AD.md)
