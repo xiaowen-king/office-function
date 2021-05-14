@@ -27,3 +27,5 @@ Excel函数使用方法
 - [x] [条件查找](https://github.com/xiaowen-king/office-function/blob/main/Excel/%E6%9D%A1%E4%BB%B6%E6%9F%A5%E6%89%BE.md)
 
 - [x] [多条件查找](https://github.com/xiaowen-king/office-function/blob/main/Excel/%E5%A4%9A%E6%9D%A1%E4%BB%B6%E6%9F%A5%E6%89%BE.md)
+
+- [x] [计算文本算式](https://github.com/xiaowen-king/office-function/blob/main/Excel/%E8%AE%A1%E7%AE%97%E6%96%87%E6%9C%AC%E7%AE%97%E5%BC%8F.md)
