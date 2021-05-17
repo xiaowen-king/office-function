@@ -33,3 +33,5 @@ Excel函数使用方法
 - [x] [合并单元格内容](https://github.com/xiaowen-king/office-function/blob/main/Excel/%E5%90%88%E5%B9%B6%E5%8D%95%E5%85%83%E6%A0%BC%E5%86%85%E5%AE%B9.md)
 
 - [x] [合并带格式的单元格内容](https://github.com/xiaowen-king/office-function/blob/main/Excel/%E5%90%88%E5%B9%B6%E5%B8%A6%E6%A0%BC%E5%BC%8F%E7%9A%84%E5%8D%95%E5%85%83%E6%A0%BC%E5%86%85%E5%AE%B9.md)
+
+- [x] [比较单元格内容是否相同](https://github.com/xiaowen-king/office-function/blob/main/Excel/%E6%AF%94%E8%BE%83%E5%8D%95%E5%85%83%E6%A0%BC%E5%86%85%E5%AE%B9%E6%98%AF%E5%90%A6%E7%9B%B8%E5%90%8C.md)
