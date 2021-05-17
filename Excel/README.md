@@ -29,3 +29,5 @@ Excel函数使用方法
 - [x] [多条件查找](https://github.com/xiaowen-king/office-function/blob/main/Excel/%E5%A4%9A%E6%9D%A1%E4%BB%B6%E6%9F%A5%E6%89%BE.md)
 
 - [x] [计算文本算式](https://github.com/xiaowen-king/office-function/blob/main/Excel/%E8%AE%A1%E7%AE%97%E6%96%87%E6%9C%AC%E7%AE%97%E5%BC%8F.md)
+
+- [x] [合并单元格内容](https://github.com/xiaowen-king/office-function/blob/main/Excel/%E5%90%88%E5%B9%B6%E5%8D%95%E5%85%83%E6%A0%BC%E5%86%85%E5%AE%B9.md)
